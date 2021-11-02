@@ -2,7 +2,7 @@
 print("While form")
 i = 0
 while (i <= 100):
-	if i%2: print(i)
+	if i%2 == 0: print(i)
 	i += 1
 
 print("For form")
